@@ -1,5 +1,5 @@
 # Pathfinder
-This was a project I did for class during September 2017. The purpose was to find the shortest path from start to finish of a map 
+This was a C++ project I did for class during September 2017. The purpose was to find the shortest path from start to finish of a map 
 read in from a .csv file using Breadth First Search.
 
 When the project was provided to me, the only files in there were the ones
