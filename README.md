@@ -20,6 +20,4 @@ that will later be used to find a potential path. The function also checks for a
 * The solveMaze() function pushes the node storing "F" (for Finish) to a queue and finds the shortest way to "S" using Breadth First Search.
 * If a solution is found then it prints the path from "S" to "F", otherwise it says "ERROR: Couldn't find a path from 'S' to 'F'!"
 
-You will need to install QT to run the code. There are 2 mains. One is in the "test" folder that goes through all the .csv files found in 
-the "data" folder. The other main is found in the "app" folder and is for when you want to test a .csv file made by you (or use the path 
-for a .csv file found in the "data" folder).
+You will need to install QT to run the code. Extract the .zip file and open the “Pathfinder.pro” file. There are 2 mains. One is in the "test" folder that goes through all the .csv files found in the "data" folder (This can take a bit of setting up to do because you have configure the project properly). The other main is found in the "app" folder and is for when you want to test a .csv file made by you (or use the path for a .csv file found in the "data" folder). The second main is easier to use if you want to test the working of the algorithm.
